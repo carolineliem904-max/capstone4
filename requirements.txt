@@ -1,5 +1,5 @@
-streamlit
-ultralytics
-pillow
-pandas
-requests
+pandas==3.0.0
+Pillow==12.1.1
+Requests==2.32.5
+streamlit==1.45.1
+ultralytics==8.4.14
